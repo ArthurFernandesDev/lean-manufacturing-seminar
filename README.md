@@ -2,8 +2,6 @@
 Modern web-based seminar presentation focused on Lean Manufacturing, Six Sigma and process optimization.
 # 🎓 Lean Manufacturing & Six Sigma
 
-https://arthurfernandesdev.github.io/lean-manufacturing-seminar/
-
 Apresentação acadêmica interativa desenvolvida em HTML, CSS e JavaScript puro sobre os sistemas Lean Manufacturing, Six Sigma e Lean Six Sigma.
 
 ---
