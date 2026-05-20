@@ -65,9 +65,3 @@ A proposta do projeto é substituir apresentações tradicionais por uma experi�
 - Aplicações industriais
 
 ---
-
-## 🚀 Como Executar
-
-### 1. Clone o repositório
-
-```bash
